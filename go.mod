@@ -1,4 +1,4 @@
-module set
+module github.com/darker192/set
 
 go 1.22.0
 
